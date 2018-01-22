@@ -1,7 +1,7 @@
 Vagas Disponíveis
 ========
 
-* Desenvolvedor NodeJS Full Stack Sênior
+* Desenvolvedor NodeJS Sênior
 * Desenvolvedor NodeJS Junior
 
 Quem somos
