@@ -1,4 +1,4 @@
-Vagas Disponveis
+Vagas Disponíveis
 ========
 
 * Desenvolvedor NodeJS Full Stack Sênior
